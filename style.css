@@ -33,8 +33,7 @@ body{
     margin: 10px 5px ;
 
 }
-.rating:hover 
-.rating:active{
+.rating:hover,.rating.active {
     background: darkseagreen;
     border-radius:  10px;
     box-shadow: 0 0 10px rgba(0,0,0,.3);
